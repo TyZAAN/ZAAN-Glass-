@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About ZAAN Glass</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<h2>ZAAN Glass</h2>
+<nav>
+<a href="index.html">Home</a>
+<a href="services.html">Services</a>
+<a href="gallery.html">Gallery</a>
+<a href="about.html">About</a>
+<a href="contact.html">Contact</a>
+</nav>
+</header>
+
+<div class="container">
+
+<h1>About ZAAN Glass</h1>
+
+<p>
+With over 9 years in the glass industry, ZAAN Glass was built to show
+what real craftsmanship and integrity look like.
+</p>
+
+<p>
+I started ZAAN as a way to show my kids what it means to work with
+honesty and pride. The small things matter — measurements on time,
+returned phone calls, and installation dates kept.
+</p>
+
+<p>
+We never cut corners. Every project is treated like it’s being built
+for our own home.
+</p>
+
+</div>
+
+<footer>
+<p>Serving Lower Michigan</p>
+</footer>
+
+</body>
+</html>

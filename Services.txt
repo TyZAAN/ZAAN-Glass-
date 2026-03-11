@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Services | ZAAN Glass</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<h2>ZAAN Glass</h2>
+<nav>
+<a href="index.html">Home</a>
+<a href="services.html">Services</a>
+<a href="gallery.html">Gallery</a>
+<a href="about.html">About</a>
+<a href="contact.html">Contact</a>
+</nav>
+</header>
+
+<div class="container">
+
+<h1>Services</h1>
+
+<div class="services">
+
+<div class="card">
+<h3>Frameless Shower Doors</h3>
+<p>Custom shower enclosures designed for modern bathrooms.</p>
+</div>
+
+<div class="card">
+<h3>Custom Mirrors</h3>
+<p>Bathroom mirrors, gym mirrors and wall mirrors.</p>
+</div>
+
+<div class="card">
+<h3>Wine Cellars</h3>
+<p>Glass wine rooms and partitions.</p>
+</div>
+
+<div class="card">
+<h3>Storefront Glass</h3>
+<p>Commercial glass storefront systems and doors.</p>
+</div>
+
+<div class="card">
+<h3>Insulated Glass Replacement</h3>
+<p>Fix foggy or broken glass without replacing the whole window.</p>
+</div>
+
+</div>
+
+</div>
+
+<footer>
+<p>Call 810-291-4096</p>
+</footer>
+
+</body>
+</html>
